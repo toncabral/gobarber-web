@@ -47,7 +47,8 @@
     "react/prop-types": "off",
     "@typescript-eslint/ban-types": "off",
     "no-unused-expressions": "off",
-    "camelcase": "off"
+    "camelcase": "off",
+    "import/no-duplicates": "off"
   },
   "settings": {
     "import/resolver": {
